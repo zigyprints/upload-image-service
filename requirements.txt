@@ -1,3 +1,4 @@
 fastapi
 cloudinary
 python-multipart
+uvicorn
